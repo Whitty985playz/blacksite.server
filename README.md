@@ -15,3 +15,5 @@ A List of scripts includes:
 - Dead Man Switch Improved
 - Delta Warhead - Shut down
 ```
+Everything else can be found on our Wiki:
+[scpslblacksite.wiki/github]()
