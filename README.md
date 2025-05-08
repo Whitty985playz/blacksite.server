@@ -4,7 +4,6 @@ PROJECT BLACKSITE is an SCP: Secret Laboratory server that makes the use of Scri
 The Blacksite Repository is a repository where scripts are published from Blacksite which are allowed to be made public.
 
 A List of scripts includes:
-```yml
 - Sierra Warhead
 - Door System Protocol
 - Facility Light Error
@@ -14,6 +13,5 @@ A List of scripts includes:
 - No More Foundation
 - Dead Man Switch Improved
 - Delta Warhead - Shut down
-```
-Everything else can be found on our Wiki:
-[scpslblacksite.wiki/github]()
+
+To learn about something, just click the text!
