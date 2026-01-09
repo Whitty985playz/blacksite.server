@@ -12,7 +12,7 @@ This github site acts as the Project Blacksite wiki, allowing you to see everyth
 
 | --- | --- | Navigation | --- | --- |
 | --- | --- | --- | --- | --- |
-|  |  | B.A.S.S |  |  |
+|  |  | [B.A.S.S](https://whitty985playz.github.io/blacksite.server/SiteSystems/B.A.S.S) |  |  |
 
 ---
 
