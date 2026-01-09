@@ -13,7 +13,7 @@ Pre-made and autonomic announcements include:
 
 ### B.A.S.S. Logo - Based on C.A.S.S.I.E:
 
-<img width="1090" height="289" alt="B A S S" src="https://github.com/user-attachments/assets/c34f653e-2462-4b7d-9516-e985a080d44c" />
+<img width="1090" height="285" alt="B A S S" src="https://github.com/user-attachments/assets/c34f653e-2462-4b7d-9516-e985a080d44c" />
 
 ## 📕 Lore Description
 
