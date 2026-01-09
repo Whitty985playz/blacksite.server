@@ -2,7 +2,7 @@
 Project Blacksite is a UK based SCP: Secret laboratory server that was created with the aim of testing the limits of the game and plugins while creating an unforgettable experience.
 
 We are also working on a full remake of the interactable tutorials that used to be in SCP:SL.
-> *`Information:` https://discord.gg/DUnjgHfn8M*
+> *`Information:` [https://discord.gg/DUnjgHfn8M](https://discord.gg/DUnjgHfn8M)*
 
 ---
 
