@@ -11,7 +11,7 @@ We are also working on a full remake of the interactable tutorials that used to 
 This github site acts as the Project Blacksite wiki, allowing you to see everything that is in the server in one place.
 
 | --- | --- | Navigation | --- | --- |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 |  |  | [<img width="109" height="28.5" alt="B A S S" src="https://github.com/user-attachments/assets/c34f653e-2462-4b7d-9516-e985a080d44c" />](https://whitty985playz.github.io/blacksite.server/SiteSystems/B.A.S.S) |  |  |
 
 ---
