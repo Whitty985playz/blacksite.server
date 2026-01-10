@@ -2,7 +2,7 @@
 
 The **Blacksite Autonomic Security System** is a replacement of the main C.A.S.S.I.E. System, being voiced by `NAME`.
 
-Pre-made and autonomic [announcements](https://whitty985playz.github.io/blacksite.server/SiteSystems/B.A.S.S#:~:text=%F0%9F%93%95%20Lore%20Description-,%F0%9F%93%A3%20Announcements,-/%20%3D%20New%20Line) include:
+Pre-made and autonomic announcements include:
 - Most spawnwaves(Including custom waves)
 - SCP Re-containments
 - Heavy Containment Zone Decontamination
