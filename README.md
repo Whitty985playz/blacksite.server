@@ -1,6 +1,6 @@
 # READ THIS BEFORE LOOKING THROUGH THIS REPO!
 
-If you are following [this tutorial](https://youtu.be/Ez8F0nW6S-w), do not make any pull requests for this repository.
+If you are following [this tutorial](https://youtu.be/Ez8F0nW6S-w), do not make any pull requests for this repository, or **ANY** repository you do not own/contribute to.
 
 There is a problem going around on GitHub because of that tutorial, where multiple pull requests are being opened for repositories and have to be denied.
 
